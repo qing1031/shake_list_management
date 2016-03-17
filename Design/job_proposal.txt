@@ -1,0 +1,20 @@
+i am back at computer.  yes, the first tasks are:
+
+
+1. create a new shakelist
+
+
+2. upload the list to the internet repository of lists.
+
+
+3.  enable searching of all lists uploaded to the repository of lists on the internet that are tagged as PUBLIC
+
+
+4.  be able to preview lists that are online in the repository 
+
+
+5.  enable downloading of lists on the repository of lists on the internet>show the list management.
+
+
+
+- For list management, use the firebase.

@@ -1,0 +1,14 @@
+I have a simple list management app to be developed on iphone.
+App allows people to:
+a.  create a new list (of phrases)
+b.  edit existing lists
+c.  upload new lists to a repository on the internet.
+d.  download lists from a list repository on the Internet.
+
+The internet repository would ideally be created on firebase, although am open to meteor as well.  Would like Internet repository to also be accessible from PC/Mac browser - perhaps have front end of it in HTML5.
+
+I have sample UI for all of the screens.  Some sample screens are attached here.
+
+If app developer is good, there could be a bunch of follow-on work, include social media (FB and Twitter) integrations.
+
+Would prefer someone with a design sensibility who has UI/UX suggestions.
